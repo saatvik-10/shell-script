@@ -21,3 +21,15 @@ echo "Result=$res";;
 echo "Result=$res";;
 *)echo "Invalid Input"
 esac
+
+# Enter number 1
+# 3
+# Enter number 2
+# 5
+# Choose an Arithmetic Operation:
+# 1. Addition
+# 2. Subtraction
+# 3. Multiplication
+# 4. Division
+# 1
+# Result=8
